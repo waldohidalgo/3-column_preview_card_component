@@ -8,7 +8,11 @@ import Footer from "./components/Footer.vue";
       class="grid grid-rows-3 my-[88px] mx-auto w-[87%] rounded-[6px] overflow-hidden sm:my-[171px] max-w-[919px] sm:grid-cols-2 sm:grid-rows-2 lg:grid-cols-3 lg:grid-rows-1"
     >
       <div class="bg-brightOrange p-[48px_50px] sm:p-[48px_49px]">
-        <img src="/images/icon-sedans.svg" alt="sedans" />
+        <img
+          src="/images/icon-sedans.svg"
+          alt="sedans"
+          class="w-[64px] h-[40px]"
+        />
         <div
           class="text-veryLightGray font-bigShoulders mt-[26px] text-[44px] uppercase tracking-[0.9px]"
         >
@@ -27,7 +31,7 @@ import Footer from "./components/Footer.vue";
         </button>
       </div>
       <div class="bg-darkCyan p-[48px_50px] sm:p-[48px_49px]">
-        <img src="/images/icon-suvs.svg" alt="suvs" />
+        <img src="/images/icon-suvs.svg" alt="suvs" class="w-[64px] h-[40px]" />
         <div
           class="text-veryLightGray font-bigShoulders mt-[26px] text-[44px] uppercase tracking-[0.9px]"
         >
@@ -46,7 +50,11 @@ import Footer from "./components/Footer.vue";
         </button>
       </div>
       <div class="bg-veryDarkCyan p-[48px_50px] sm:p-[48px_49px]">
-        <img src="/images/icon-luxury.svg" alt="luxury" />
+        <img
+          src="/images/icon-luxury.svg"
+          alt="luxury"
+          class="w-[64px] h-[40px]"
+        />
         <div
           class="text-veryLightGray font-bigShoulders mt-[26px] text-[44px] uppercase tracking-[0.9px]"
         >
