@@ -14,12 +14,12 @@ import Footer from "./components/Footer.vue";
           class="w-[64px] h-[40px]"
         />
         <div
-          class="text-veryLightGray font-bigShoulders mt-[26px] text-[44px] uppercase tracking-[0.9px]"
+          class="text-veryLightGray font-bigShoulders mt-[26px] text-[41px] uppercase tracking-[0.9px] font-semibold"
         >
           Sedans
         </div>
         <p
-          class="text-transparentWhite text-[15px] leading-[25px] mt-3.5 sm:mt-[17px]"
+          class="text-transparentWhite text-[15px] leading-[25px] mt-[19px] sm:mt-[17px]"
         >
           Choose a sedan for its affordability and excellent fuel economy. Ideal
           for cruising in the city or on your next road trip.
@@ -33,12 +33,12 @@ import Footer from "./components/Footer.vue";
       <div class="bg-darkCyan p-[48px_50px] sm:p-[48px_49px]">
         <img src="/images/icon-suvs.svg" alt="suvs" class="w-[64px] h-[40px]" />
         <div
-          class="text-veryLightGray font-bigShoulders mt-[26px] text-[44px] uppercase tracking-[0.9px]"
+          class="text-veryLightGray font-bigShoulders mt-[26px] text-[41px] uppercase tracking-[0.9px] font-semibold"
         >
           SUVs
         </div>
         <p
-          class="text-transparentWhite text-[15px] leading-[25px] mt-3.5 sm:mt-[17px]"
+          class="text-transparentWhite text-[15px] leading-[25px] mt-[19px] sm:mt-[17px]"
         >
           Take an SUV for its spacious interior, power, and versatility. Perfect
           for your next family vacation and off-road adventures.
@@ -56,12 +56,12 @@ import Footer from "./components/Footer.vue";
           class="w-[64px] h-[40px]"
         />
         <div
-          class="text-veryLightGray font-bigShoulders mt-[26px] text-[44px] uppercase tracking-[0.9px]"
+          class="text-veryLightGray font-bigShoulders mt-[26px] text-[41px] uppercase tracking-[0.9px] font-semibold"
         >
           Luxury
         </div>
         <p
-          class="text-transparentWhite text-[15px] leading-[25px] mt-3.5 sm:mt-[17px]"
+          class="text-transparentWhite text-[15px] leading-[25px] mt-[19px] sm:mt-[17px]"
         >
           Cruise in the best car brands without the bloated prices. Enjoy the
           enhanced comfort of a luxury rental and arrive in style.
