@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+
+:root {
+  --lexendDeca: "Lexend Deca", sans-serif;
+  --bigShoulders: "Big Shoulders Display", sans-serif;
+}
+
+@tailwind utilities;
